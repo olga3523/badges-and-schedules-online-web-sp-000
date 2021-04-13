@@ -8,12 +8,4 @@ def batch_badge_creator(attendees)
   attendees.collect do |name|
     badge_maker(name)
   end
-
-def batch_badge_creator()
-end
-
-def assign_rooms()
-end
-
-def printer()
 end
